@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "templateupdaterepos"
 version = "0.1.0"
-description = ""
-authors = ["evelynmitchell <efmphone@gmail.com>"]
+description = "Tooling to update repos based on a template repo when the template updates."
+authors = ["evelynmitchell"]
 readme = "README.md"
+repository = "https://github.com/evelynmitchell/TemplateUpdateRepos"
+keywords = ["template", "static analysis", "linting", "code quality"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
